@@ -7,9 +7,6 @@ Live product: [lucknowrent.space](https://lucknowrent.space) - owner-direct rent
 ## What I'm building
 
 - **lucknow.rent** - static HTML/JS + Firebase + MapLibre, AEO-ready listing pages, owner-direct only. Live.
-- **ChurnLens** - SaaS churn prediction, Next.js + FastAPI, validating positioning with real users.
-- **CUET PG PolSci** - exam-prep app for Indian students, Next.js + inline styles, mobile-first.
-- **Chanakya AI** - oral-quiz app, React Native + Expo.
 
 ## Open source
 
